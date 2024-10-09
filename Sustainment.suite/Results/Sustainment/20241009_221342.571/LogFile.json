@@ -1,0 +1,52 @@
+{
+	"entries": [
+		{
+				"message": "Running Sustainment.script",
+				"identifier": "START",
+				"timestamp": "2024-10-09 22:13:42.586 +0530"
+			},
+		{
+				"handlerName": "on_sustainment",
+				"timestamp": "2024-10-09 22:13:42.665 +0530",
+				"message": "This is main script",
+				"scriptName": "Sustainment.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_domain",
+				"timestamp": "2024-10-09 22:13:42.697 +0530",
+				"message": "This is Domain Suite",
+				"scriptName": "C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/DomainCheck.suite/Scripts/Domain.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_common",
+				"timestamp": "2024-10-09 22:13:42.728 +0530",
+				"message": "This is Common Suite",
+				"scriptName": "C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/Common.suite/Scripts/Common.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_power",
+				"timestamp": "2024-10-09 22:13:42.754 +0530",
+				"message": "This is Power suite",
+				"scriptName": "C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/PowerChart.suite/Scripts/Power.script",
+				"handlerLine": 1,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.186\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-10-09 22:13:42 +0530\", Successes:\"1\", TestCase:\"Sustainment.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-10-09 22:13:42.790 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Sustainment.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-10-09 22:13:42.859 +0530"
+			}
+	],
+	"createdTimestamp": "2024-10-09 22:13:42.593 +0530"
+}

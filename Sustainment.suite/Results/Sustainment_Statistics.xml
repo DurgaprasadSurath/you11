@@ -2,10 +2,10 @@
 <statistics>
  <script name="Sustainment">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfRuns>3</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2024-10-09 22:07:54 +0530</FirstRun>
-  <LastRun>2024-10-09 22:11:53 +0530</LastRun>
-  <TotalTimeOnSuccess>0.495000</TotalTimeOnSuccess>
+  <LastRun>2024-10-09 22:13:42 +0530</LastRun>
+  <TotalTimeOnSuccess>0.712000</TotalTimeOnSuccess>
  </script>
 </statistics>

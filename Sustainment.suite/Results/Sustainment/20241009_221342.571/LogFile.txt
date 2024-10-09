@@ -1,0 +1,7 @@
+﻿2024-10-09 22:13:42.586 +0530	START		Running Sustainment.script
+2024-10-09 22:13:42.665 +0530	Log		This is main script	1	on_sustainment	Sustainment.script
+2024-10-09 22:13:42.697 +0530	Log		This is Domain Suite	1	on_domain	C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/DomainCheck.suite/Scripts/Domain.script
+2024-10-09 22:13:42.728 +0530	Log		This is Common Suite	1	on_common	C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/Common.suite/Scripts/Common.script
+2024-10-09 22:13:42.754 +0530	Log		This is Power suite	1	on_power	C:/Users/durgaprasad.surath/OneDrive - Ideabytes/Documents/GW/VA_Handlers/PowerChart.suite/Scripts/Power.script
+2024-10-09 22:13:42.790 +0530	EndTestCase		(Duration:"0.186", Errors:"0", Exceptions:"0", StartTime:"2024-10-09 22:13:42 +0530", Successes:"1", TestCase:"Sustainment.script", Warnings:"0")
+2024-10-09 22:13:42.859 +0530	SUCCESS		Execution Time 0:00:00 Sustainment.script
