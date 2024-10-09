@@ -1,0 +1,5 @@
+﻿Log "This is main script"
+
+Run "Domain"
+Run"Common"
+Run "Power"
